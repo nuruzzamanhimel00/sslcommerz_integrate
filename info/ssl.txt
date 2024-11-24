@@ -1,0 +1,41 @@
+Website	https://namespaceit.com/
+Company Name	namespaceit.com
+Company Address	Lift 4, House 13 Rd No 11, Dhaka 1230
+Name	himel
+Email	nosulipy@logsmarter.net
+Phone Number	01622819929
+Username	himel2024
+pass:
+#######################
+
+Congratulations
+ 
+Sandbox Store ID Created
+ 
+We highly appreciate if you first connect with the sandbox and then move to the live system. Please inform us if you need to change Registered Store URL for testbox.
+ 
+
+ 
+Store ID: names67436140041d6
+Store Password (API/Secret Key): names67436140041d6@ssl
+
+
+Merchant Panel URL: https://sandbox.sslcommerz.com/manage/ (Credential as you inputted in the time of registration)
+
+
+ 
+Store name: testnamesu892
+Registered URL: https://namespaceit.com/
+Session API to generate transaction: https://sandbox.sslcommerz.com/gwprocess/v3/api.php
+Validation API: https://sandbox.sslcommerz.com/validator/api/validationserverAPI.php?wsdl
+Validation API (Web Service) name: https://sandbox.sslcommerz.com/validator/api/validationserverAPI.php
+ 
+You may check our plugins available for multiple carts and libraries: https://github.com/sslcommerz
+ 
+Your information at our system
+Merchant Id: names6743613cf4147
+Merchant Name: namespaceit.com
+Name: himel
+Mailing Address: Lift 4, House 13 Rd No 11, Dhaka 1230,
+Email: nosulipy@logsmarter.net
+Mobile: 01622819929
